@@ -11,4 +11,16 @@
         android:label="@string/title_home"
         tools:layout="@layout/fragment_homec" />
 
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.example.bookcave.ui.search.SearchFragment"
+        android:label="@string/title_search"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.example.bookcave.ui.profile.ProfileFragment"
+        android:label="@string/title_profile"
+        tools:layout="@layout/fragment_profile" />
+
 </navigation>

@@ -29,6 +29,7 @@ public class BookInfo extends AppCompatActivity {
         bprice=findViewById(R.id.bprice);
         bauthor=findViewById(R.id.bauthor);
         bdesc=findViewById(R.id.bdesc);
+        bshow=findViewById(R.id.bshow);
 
         Intent intent=getIntent();
         final String book_title =intent.getStringExtra("book_title");

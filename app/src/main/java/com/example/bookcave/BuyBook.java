@@ -32,6 +32,7 @@ import java.util.Objects;
 import java.util.UUID;
 
 public class BuyBook extends AppCompatActivity {
+
     public TextView oname,obname,obauthorname,ogenre,oprice,oitemprice,odeliprice,ototalprice,famount,onumber;
     public EditText oaddress,opin;
     public Button order;
@@ -88,13 +89,13 @@ public class BuyBook extends AppCompatActivity {
         obname.setText(booktitle);
         obauthorname.setText(bookauthor);
         ogenre.setText(genre);
-        oprice.setText(String.format("%s ", String.valueOf(sprice)));
+        oprice.setText(String.format("%s KZT", String.valueOf(sprice)));
         ogenre.setText("");
-        oitemprice.setText(String.format("%s ", String.valueOf(sprice)));
-        odeliprice.setText(String.format("%s ", String.valueOf(dprice)));
+        oitemprice.setText(String.format("%s KZT", String.valueOf(sprice)));
+        odeliprice.setText(String.format("%s KZT", String.valueOf(dprice)));
         total=sprice+dprice;
-        ototalprice.setText(String.format("%s ", String.valueOf(total)));
-        famount.setText(String.format(" %s", String.valueOf(total)));
+        ototalprice.setText(String.format("%s KZT", String.valueOf(total)));
+        famount.setText(String.format("KZT %s", String.valueOf(total)));
 
         //get all the data
         FirebaseAuth fAuth = FirebaseAuth.getInstance();

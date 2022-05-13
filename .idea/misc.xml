@@ -3,36 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Application/BookCave/app/src/main/res/font/nunito.xml" value="0.14322916666666666" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_about_app.xml" value="0.1" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_add_book.xml" value="0.22826086956521738" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_book_info.xml" value="0.20885416666666667" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_book_info_order.xml" value="0.20885416666666667" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_change_address.xml" value="0.20885416666666667" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_customer_login.xml" value="0.20885416666666667" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_favourites.xml" value="0.11302083333333333" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_home_customer.xml" value="0.22826086956521738" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_home_seller.xml" value="0.11302083333333333" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_main.xml" value="0.20885416666666667" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_placed.xml" value="0.20885416666666667" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_rent_book.xml" value="0.1793478260869565" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_update_order.xml" value="0.1793478260869565" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/activity_view_order_customer.xml" value="0.1793478260869565" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/app_bar_home_seller.xml" value="0.11302083333333333" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/content_home_seller.xml" value="0.1" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/fragment_about.xml" value="0.1" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/fragment_booklist.xml" value="0.1793478260869565" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/fragment_gallery.xml" value="0.1793478260869565" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/fragment_home.xml" value="0.1793478260869565" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/fragment_homec.xml" value="0.22826086956521738" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/fragment_slideshow.xml" value="0.22826086956521738" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/row_filter_s_list.xml" value="0.1" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/row_order_cus_list.xml" value="0.20885416666666667" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/layout/row_payment_cus_list.xml" value="0.2" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/menu/actionbarmenu.xml" value="0.25416666666666665" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/menu/activity_home_seller_drawer.xml" value="0.25416666666666665" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/mipmap-anydpi-v26/bookcavelogo.xml" value="0.124" />
-        <entry key="..\:/Application/BookCave/app/src/main/res/mipmap-anydpi-v26/bookcavelogo_round.xml" value="0.124" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/drawable/loading_shape.xml" value="0.156" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/activity_add_book.xml" value="0.1094224924012158" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/activity_contact_developer.xml" value="0.1" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/activity_creat_account_seller.xml" value="0.10258358662613981" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/activity_home_seller.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/app_bar_home_seller.xml" value="0.2" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/content_home_seller.xml" value="0.2" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/fragment_home.xml" value="0.10309017223910841" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/fragment_seller_profile.xml" value="0.10131712259371833" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/row_book_api_result.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/row_book_search_result.xml" value="0.10190217391304347" />
+        <entry key="..\:/Users/toizh/Downloads/BookCave/app/src/main/res/layout/row_order_cus_list.xml" value="0.1" />
       </map>
     </option>
   </component>

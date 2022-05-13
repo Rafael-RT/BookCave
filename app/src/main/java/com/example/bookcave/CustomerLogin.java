@@ -27,7 +27,7 @@ import java.util.Objects;
 public class CustomerLogin extends AppCompatActivity {
     String userid;
     EditText emailInput,passwordInput;
-    Button forgotpassLink,createaccLink,loginButton;
+    Button forgotpassLink,createaccLink,createaccsellerLink,loginButton;
     ProgressBar LogInProgress;
     private FirebaseAuth fAuth;
     private FirebaseAuth.AuthStateListener mAuthStateListener;
@@ -44,6 +44,7 @@ public class CustomerLogin extends AppCompatActivity {
         passwordInput = findViewById(R.id.passwordInput);
         loginButton = findViewById(R.id.loginButton);
         createaccLink = findViewById(R.id.createaccLink);
+        createaccsellerLink = findViewById(R.id.createselleraccLink);
         forgotpassLink = findViewById(R.id.forgotpassLink);
         final FirebaseFirestore db = FirebaseFirestore.getInstance();
         fAuth = FirebaseAuth.getInstance();
@@ -74,6 +75,14 @@ public class CustomerLogin extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(CustomerLogin.this, CreateAccountCustomer.class);
+                startActivity(i);
+            }
+        });
+
+        createaccsellerLink.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(CustomerLogin.this, CreatAccountSeller.class);
                 startActivity(i);
             }
         });
@@ -122,6 +131,11 @@ public class CustomerLogin extends AppCompatActivity {
                                             assert type != null;
                                             if(type.equals("Customer")){
                                                 Intent intent = new Intent(CustomerLogin.this, HomeCustomer.class);
+                                                startActivity(intent);
+                                                finish();
+                                            }else if(type.equals("Seller")){
+                                                Intent intent = new Intent(CustomerLogin.this, HomeSeller.class);
+                                                intent.putExtra("user_id" ,userid);
                                                 startActivity(intent);
                                                 finish();
                                             }

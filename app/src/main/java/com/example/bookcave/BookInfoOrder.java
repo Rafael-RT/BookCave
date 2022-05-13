@@ -36,6 +36,7 @@ public class BookInfoOrder extends AppCompatActivity {
         bprice=findViewById(R.id.bprice);
         bauthor=findViewById(R.id.bauthor);
         bdesc=findViewById(R.id.bdesc);
+        bshow=findViewById(R.id.bshow);
         sname=findViewById(R.id.sname);
         sadd=findViewById(R.id.sadd);
         rp=findViewById(R.id.rp);
@@ -89,9 +90,9 @@ public class BookInfoOrder extends AppCompatActivity {
         bcategory.setText(book_cat);
         bauthor.setText(book_author);
         bdesc.setText(book_desc);
-        bprice.setText(String.format("Selling @ %s tenge", sprice));
-        rp.setText(String.format("Renting price: %s tenge per day", rprice));
-        dc.setText(String.format("Delivery charges: %s tenge", dprice));
+        bprice.setText(String.format("Selling @ %s TNG", sprice));
+        rp.setText(String.format("Renting price: %s TNG per day", rprice));
+        dc.setText(String.format("Delivery charges: %s TNG", dprice));
 
         Glide.with(BookInfoOrder.this).load(image).placeholder(R.drawable.loading_shape).dontAnimate().into(bthumbnail);
 

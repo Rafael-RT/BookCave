@@ -51,6 +51,11 @@ public class MainActivity extends AppCompatActivity {
                                     Intent intent = new Intent(MainActivity.this, HomeCustomer.class);
                                     startActivity(intent);
                                     finish();
+                                } else if (type.equals("Seller")) {
+                                    Intent intent = new Intent(MainActivity.this, HomeSeller.class);
+                                    intent.putExtra("user_id" ,userid);
+                                    startActivity(intent);
+                                    finish();
                                 }
                             }
                         }

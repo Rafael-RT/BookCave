@@ -49,6 +49,11 @@ public class HomecFragment extends Fragment {
         recyler_home_page_books.setAdapter(adapter);
         //End of adapter code
 
+        ImageSlider slider=root.findViewById(R.id.slider);
+        List<SlideModel> sliderModels=new ArrayList<>();
+        sliderModels.add(new SlideModel("https://i.imgur.com/IGIu5Fb.jpg"));
+        sliderModels.add(new SlideModel("https://i.imgur.com/PObprBN.jpg"));
+        slider.setImageList(sliderModels, true);
 
         pullToRefresh.setOnRefreshListener(new SwipeRefreshLayout.OnRefreshListener() {
             @Override
@@ -79,7 +84,7 @@ public class HomecFragment extends Fragment {
             @SuppressLint("DefaultLocale")
             @Override
             protected void onBindViewHolder(@NotNull SellingBooksViewHolder viewHolder, int position, @NotNull final SellingBook model) {
-                viewHolder.row_price.setText(String.format("%d tenge", model.getSellingprice()));
+                viewHolder.row_price.setText(String.format("%d TNG", model.getSellingprice()));
                 viewHolder.row_quantity.setText(String.format("%d pcs available", model.getQuantities()));
                 final String final_query=model.getBookid();
                 viewHolder.row_title.setText(model.getTitle());

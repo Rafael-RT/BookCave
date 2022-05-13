@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "709053087055",
-    "project_id": "dbookcave",
-    "storage_bucket": "dbookcave.appspot.com"
+    "project_number": "888324303898",
+    "firebase_url": "https://bookcave-76c69-default-rtdb.firebaseio.com",
+    "project_id": "bookcave-76c69",
+    "storage_bucket": "bookcave-76c69.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:709053087055:android:8e7e89095e6eb1696c193a",
+        "mobilesdk_app_id": "1:888324303898:android:97c5a43ca20322dc9ff5a3",
         "android_client_info": {
           "package_name": "com.example.bookcave"
         }
       },
       "oauth_client": [
         {
-          "client_id": "709053087055-179vf0g8h4a942iul9v52g5i524rl22m.apps.googleusercontent.com",
+          "client_id": "888324303898-q06olohle88a5h1un1uer382ll9ukuot.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAu0VQVxcQv0Be7EDJ9zP2zDylh2v5A1N8"
+          "current_key": "AIzaSyBzC1uRt-JOaH53zJVYBEMGlknwvYR10ks"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "709053087055-179vf0g8h4a942iul9v52g5i524rl22m.apps.googleusercontent.com",
+              "client_id": "888324303898-q06olohle88a5h1un1uer382ll9ukuot.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
