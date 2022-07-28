@@ -1,4 +1,5 @@
 # BookCave
-Android app to sell and rent books in a city. Done as a project for IITU
+Android app to sell and rent books in a city.
 
-it's still WORK IN PROGRESS.
+Retrofit, Gson, FireBase
+
