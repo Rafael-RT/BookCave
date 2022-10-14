@@ -3,46 +3,43 @@
 
 > Login page
 
-![изображение](https://user-images.githubusercontent.com/66322879/195850537-28ba943b-f6e3-47f1-9501-eef95b4d29a8.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855098-51c4fb08-4a7a-4732-bd21-019a3cd542f7.png)
 
 > And we have 2 options to login: as Customer or as Seller
 
-![изображение](https://user-images.githubusercontent.com/66322879/195850692-f33eabab-7d5f-46de-8489-e3c4427a79d3.png)
-![изображение](https://user-images.githubusercontent.com/66322879/195850807-9f6507e9-a6c1-4f6c-929d-99b798731347.png)
+![Customer](https://user-images.githubusercontent.com/66322879/195855133-43753e41-1406-4236-964b-e962ac66bff8.png)
+![Seller](https://user-images.githubusercontent.com/66322879/195855158-00ad4030-d4c9-4627-b661-cde56dbb71e6.png)
 
 > Main page for Customers
 
-![изображение](https://user-images.githubusercontent.com/66322879/195850847-dd02ac30-0a63-48ea-af0d-f289ac524447.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855184-da4850f2-7ba0-46ce-a421-70b0fd45ff5a.png)
 
 > Searching books
 
-![изображение](https://user-images.githubusercontent.com/66322879/195850918-bf4463e1-a4bf-4d5c-af14-8d2e8d17bbfb.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855211-8009eccc-7ff6-496f-b39f-2489537006a8.png)
 
 > Checking orders for Customer
 
-![изображение](https://user-images.githubusercontent.com/66322879/195851199-59635fc1-a85d-414d-be5e-1bc509ae0864.png)
-![изображение](https://user-images.githubusercontent.com/66322879/195851206-4e45e421-0f10-4ba0-83d8-761bdca1adb9.png)
-![изображение](https://user-images.githubusercontent.com/66322879/195851217-de82e493-1d40-4ff1-9b92-5bc2dd42b384.png)
-![изображение](https://user-images.githubusercontent.com/66322879/195851229-d24b8f75-d4fe-4968-a346-b485a6ad0e3c.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195856708-a5874c96-7335-43fc-bed5-73b7b1d94df8.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195856639-a4a062c1-b290-4946-94f1-c0c3909355b7.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855846-c47e9b4a-0bc0-4a85-a658-a6027ffbd93b.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855866-35f12afd-e4f7-479c-8292-456a5449d82c.png)
 
 > Main page for Sellers
 
-![изображение](https://user-images.githubusercontent.com/66322879/195851020-1d536321-1a95-4f89-9002-1e9b3f5217df.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855366-44dd2df7-c7f5-4e7e-8b81-1b3c52ac2d61.png)
 
 > Customer profile
 
-![изображение](https://user-images.githubusercontent.com/66322879/195851311-ae2333c4-ea03-42ab-a689-64fcb5186336.png)
-
-> Also menu for customers
-
-![изображение](https://user-images.githubusercontent.com/66322879/195851083-d53d5616-f68e-45fa-ba06-c20040ee78cd.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855392-75155000-4826-42e3-853c-662fc573f573.png)
 
 > Checking orders as Seller
 
-![изображение](https://user-images.githubusercontent.com/66322879/195851094-b7c0edc5-3fa4-46c9-bc19-3e770873518c.png)
-![изображение](https://user-images.githubusercontent.com/66322879/195851099-167af566-2aec-4278-95a6-b7542a513ee5.png)
-![изображение](https://user-images.githubusercontent.com/66322879/195851116-7f514484-ecb5-4cbd-b963-fa0910f998f4.png)
-![изображение](https://user-images.githubusercontent.com/66322879/195852408-8121a18e-2ef1-4337-8da2-23fd1987e4d1.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855543-4dc73399-72cf-434c-b47f-12fedd38abe8.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855562-7209332d-359c-4192-8944-4101d4304292.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195855613-bfc0273c-cdf6-43b4-8d7f-2b9eeb47aa06.png)
+![изображение](https://user-images.githubusercontent.com/66322879/195856904-9aade126-e91e-4f58-9214-36adadb8426d.png)
+
 
 ### Using Technologies: ###
 
