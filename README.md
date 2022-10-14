@@ -7,7 +7,7 @@
 
 > And we have 2 options to login: as Customer(1) or as Seller(2)
 
-1)                           2)
+1. 2.
 ![изображение](https://user-images.githubusercontent.com/66322879/195850692-f33eabab-7d5f-46de-8489-e3c4427a79d3.png)
 ![изображение](https://user-images.githubusercontent.com/66322879/195850807-9f6507e9-a6c1-4f6c-929d-99b798731347.png)
 
@@ -50,9 +50,9 @@
 #### Langauge - Java
 
 #### Libraries:
-#### *Retrofit
-#### *Gson
-#### *FireBase
+* Retrofit
+* Gson
+* FireBase
 
 #### Firebase used for creating entities and storing data
 
