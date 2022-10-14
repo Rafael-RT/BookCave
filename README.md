@@ -5,9 +5,8 @@
 
 ![изображение](https://user-images.githubusercontent.com/66322879/195850537-28ba943b-f6e3-47f1-9501-eef95b4d29a8.png)
 
-> And we have 2 options to login: as Customer(1) or as Seller(2)
+> And we have 2 options to login: as Customer or as Seller
 
-1. 2.
 ![изображение](https://user-images.githubusercontent.com/66322879/195850692-f33eabab-7d5f-46de-8489-e3c4427a79d3.png)
 ![изображение](https://user-images.githubusercontent.com/66322879/195850807-9f6507e9-a6c1-4f6c-929d-99b798731347.png)
 
@@ -45,16 +44,16 @@
 ![изображение](https://user-images.githubusercontent.com/66322879/195851116-7f514484-ecb5-4cbd-b963-fa0910f998f4.png)
 ![изображение](https://user-images.githubusercontent.com/66322879/195852408-8121a18e-2ef1-4337-8da2-23fd1987e4d1.png)
 
-### Using Technologies ###
+### Using Technologies: ###
 
-#### Langauge - Java
+#### Langauge - Java ####
 
-#### Libraries:
+#### Libraries: ####
 * Retrofit
 * Gson
 * FireBase
 
-#### Firebase used for creating entities and storing data
+#### Firebase used for creating entities and storing data ####
 
 
 
